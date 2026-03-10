@@ -1,4 +1,4 @@
-```markdown
+
 # Project Management API
 
 API backend para gerenciamento de projetos com upload e download de arquivos `.zip`, controle de usuários e armazenamento em blob storage.
@@ -64,7 +64,6 @@ Cada projeto pode possuir arquivos associados.
 Usuários podem enviar arquivos `.zip`, que são armazenados em um serviço de **blob storage compatível com S3**.
 
 Fluxo simplificado:
-```
 
 ```
 Client
