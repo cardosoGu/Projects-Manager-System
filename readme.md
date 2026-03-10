@@ -12,10 +12,10 @@ Este sistema foi desenvolvido para uma startup e o código fonte não pode ser d
 
 - TypeScript
 - Node.js
-- Fastify / Express
+- Fastify
 - PostgreSQL
 - Prisma ORM
-- Blob Storage (S3 compatible)
+- Blob Storage (B2 Cloud Storage)
 
 ---
 
